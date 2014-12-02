@@ -1,4 +1,6 @@
-# grunt-angular-architecture-graph [![Build Status](https://travis-ci.org/lucalanca/grunt-angular-architecture-graph.png?branch=master)](https://travis-ci.org/lucalanca/grunt-angular-architecture-graph)
+# grunt-angular-architecture-graph
+[![Build Status](https://travis-ci.org/lucalanca/grunt-angular-architecture-graph.png?branch=master)](https://travis-ci.org/lucalanca/grunt-angular-architecture-graph)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/g1ps/grunt-angular-architecture-graph/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
 > Create graphs of your angular projects using angular-architecture-graph.
